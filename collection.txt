@@ -63,7 +63,7 @@ kailh pg1511 red SMD
 cherry mx rgb red
 novelkeys silk yellow
 fantasy dva
-akko v1 orange
+akko v2 orange
 gateron black clear top milky bottom
 cherry mx rgb brown
 kailh choc v1 brown
