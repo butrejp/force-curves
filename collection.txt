@@ -216,6 +216,7 @@ unknown TTC linear - gray bottom, gold top, red stem, lost condensor
 "CS" alps clone, likely manufactured by Litontech, likely part number LTKS-15002-2P
 novelkeys blueberry
 jwick t1
+hua-jie AK-CN2 (alps.tw type t1)
 
 Frankenswitches:
 "hinope" cherry mx linear bottom and top, clipped novelkeys sherbet stem
