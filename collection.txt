@@ -1,0 +1,229 @@
+ttc heart
+keebworks blue bubblegum prototype
+aflion shadow sample
+tecsee gold plated
+aristotle yellow
+aristotle black
+adomax flaretech
+cherry mx hirose orange
+proworld clicky
+outemu blue alps mount
+drop holy panda x
+kailh choc v2 blue
+kailh choc orange
+kpt amber
+cherry lp red
+omron b3k-t13l
+omron b3k-t13l2
+kailh box navy
+gateron low profile blue
+kailh center led
+kailh sun
+greetech razer green
+kailh razer green
+ttc razer green
+"chuangli black" kailh pg1511 clone
+counterfeit kailh burgundy
+counterfeit kailh purple
+counterfeit kailh blue (strange mount)
+zeal zealio v2 (62, 65, 67, 78g)
+zeal zilent (62, 65, 67, 78g)
+zeal tealio (67g)
+zeal healio ( 63.5g)
+sakurios (62g, 67g)
+cherry mousetrap
+kailh pg151101d01 "black" non-smd, 3 pin
+cherry mx brown hyperglide
+kailh box brown v1
+tecsee blue sky cloud tactile
+everglide crystal purple
+cherry mx blue hyperglide
+durock medium tactile
+cherry mx green retooled
+akko vintage white
+gateron full milky yellow
+cherry mx red hyperglide
+built by nim linear
+cherry speed silver hyperglide
+kailh pg1511 blue (non-smd, 3 pin)
+nk cream v2
+cherry mx blue retooled
+outemu dustproof blue
+kailh box royal (retooled)
+cherry mx rgb clear
+outemu transparent
+gateron ks3-x47 yellow
+kailh sherbet
+momoka frog
+cherry mx rgb silent red
+tecsee snow globe
+outemu red
+gateron optical brown
+kailh pg1511 red SMD
+cherry mx rgb red
+novelkeys silk yellow
+fantasy dva
+akko v1 orange
+gateron black clear top milky bottom
+cherry mx rgb brown
+kailh choc v1 brown
+gateron red white bottom clear top
+outemu brown clear top black bottom
+greetech black
+gateron white white bottom clear top
+cherry mx white
+mmd panda
+greetech blue
+tecsee blue sky cloud linear
+gateron optical yellow
+kailh cream v1
+gateron brown white bottom clear top
+gateron ks3-x47 brown
+outemu black clear top black bottom
+alps skfr black
+gateron yellow white bottom clear top
+gateron blue white bottom clear top
+greetech brown
+kailh pg1511 blue smd
+tai-hao apc sky blue
+outemu dustproof black
+gateron blue clear top black bottom
+gateron green clear top black bottom
+leobog wolfberry
+kailh box black
+kailh box cyberpunk
+outemu purple (standard pole)
+kailh box white
+kailh box red
+cherry mx silent red
+gateron cap crystal silent red
+outemu red panda
+gateron brown clear top milky bottom
+kailh pg1511 black smd
+outemu red full nylon non-smd
+gateron clear top black bottom yellow
+kailh box cream
+greetech black
+newgiant black
+outemu brown white bottom clear top
+kailh box pale blue
+gateron red black bottom clear top
+kailh pale blue
+kailh pink
+gateron optical blue
+outemu blue white bottom clear top (jailhouse)
+outemu black white bottom clear top
+kailh pg1511 red non-smd
+kailh box eva
+gateron black clear top black bottom
+cherry mx black hyperglide
+cherry mx blue hyperglide
+novelkeys dry black
+outemu black full nylon
+charue linear
+kailh pro burgundy 
+cherry mx rgb black
+moyu black
+kailh pg1511 brown smd
+kailh box yellow
+kailh navy
+mitsumi miniature mechanical mx mount green
+outemu dustproof red
+leobog ashwood
+gateron black white bottom clear top
+kailh speed bronze
+outemu ocean
+outemu dustproof brown
+kailh saber
+firstblood blue clicky
+cherry mx clear
+greetech red
+content brown
+cherry mx green hyperglide
+kailh choc pale blue
+aflion panda
+kailh box royal (with clickbar nub)
+outemu silent lemon
+outemu blue black bottom clear top
+GTMX low profile clicky
+kailh box jade
+kailh pg1511 black (non-smd)
+everglide oreo
+cherry mx rgb blue
+huano red
+gateron green white bottom clear top
+kailh box navy
+kailh box ancient grey
+gateron white black bottom clear top
+outemu blue full nylon
+gateron silent red clear top milky bottom
+gateron optical red
+outemu brown full nylon
+gateron optical black
+outemu red black bottom clear top
+gazzew boba u4t rgb
+cherry mx rgb speed silver
+kailh choc v1 red
+firstblood pink linear
+matias quietclick
+leobog crystal
+gateron green full milky
+aflion iceberg
+gateron yellow clear top black bottom
+dareu sky blue
+kailh pro purple
+gateron black full milky
+gateron brown black bottom clear top
+invokeys matcha latte
+kailh china yellow
+kailh dark yellow
+kailh gold
+everglide red
+lcet grace
+kailh cherry
+everglide tourmaline blue
+lcet joker
+kailh plum?
+kailh silver
+outemu teal
+lcet pink queen
+everglide orange
+kailh sage
+kailh box green
+kailh burnt orange
+kailh china red
+everglide pink
+lcet sprout
+kailh light green
+kailh box burnt orange
+everglide green
+kailh copper
+homoo sea salt lemon
+tecsee strawberry milk
+tecsee lychee linear
+ktt mallo
+leobog juggle
+ktt onyx
+mmd honey tactile
+originative mod-l tactile
+tecsee lychee tactile
+tecsee sangria
+Huano smoky pink
+unknown unbranded linear - matcha stem, pastel green bottom, clear top
+unknown unbranded linear - pink stem, crystal pink bottom, clear top.  same manufacturer as above?
+unknown TTC linear - white top, white stem (both possibly slightly blue?) sky blue base
+unknown TTC linear - gray bottom, gold top, red stem, lost condensor
+"CS" alps clone, likely manufactured by Litontech, likely part number LTKS-15002-2P
+novelkeys blueberry
+jwick t1
+
+Frankenswitches:
+"hinope" cherry mx linear bottom and top, clipped novelkeys sherbet stem
+"creameron" gateron KS3-X47 yellow housing and spring, kailh cream v1 stem
+"yokberry" yok trash panda housing, kailh blueberry stem
+"u4t panda" yok trash panda housing, gazzew u4t stem
+"dirty panda" kailh brown stem, yok trash panda housing
+"shitty panda" cherry mx brown hyperglide stem, yok trash panda housing
+"black cherry pie" novelkeys silk bottom, cherry top, kailh cream v1 stem
+"aura panda" jlabs aura stem, yok trash panda housing
+"optiberry" kailh blueberry stem and top, gateron optical blue bottom
