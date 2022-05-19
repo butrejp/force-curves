@@ -2,8 +2,8 @@ ttc heart
 keebworks blue bubblegum prototype
 aflion shadow sample
 tecsee gold plated
-aristotle yellow
-aristotle black
+"cherry yellow" aristotle linear (defaced, or aristotle may have just changed their top housings from the cherry housings at some point, or possibly the "cherry yellow" thing was just a ruse the whole time)
+"cherry black" aristotle black (same as above)
 adomax flaretech
 cherry mx hirose orange
 proworld clicky
@@ -35,7 +35,7 @@ cherry mousetrap
 kailh pg151101d01 "black" non-smd, 3 pin
 cherry mx brown hyperglide
 kailh box brown v1
-tecsee blue sky cloud tactile
+tecsee blue sky cloud tactile (stem lost in the rat's nest of wires under my desk during some experiments with aristotle stems)
 everglide crystal purple
 cherry mx blue hyperglide
 durock medium tactile
@@ -217,6 +217,7 @@ unknown TTC linear - gray bottom, gold top, red stem, lost condensor
 novelkeys blueberry
 jwick t1
 hua-jie AK-CN2 (alps.tw type t1)
+alps.tw TWB Type 6 "Aristotle"
 
 Frankenswitches:
 "hinope" cherry mx linear bottom and top, clipped novelkeys sherbet stem
